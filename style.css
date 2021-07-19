@@ -1,0 +1,38 @@
+.bg-own{
+    background-color: #fceae8;
+}
+
+.own-btn{
+    padding:6px 25px;
+    background-color:  #FF589B;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.first-shoe{
+    background-color: orange;
+}
+
+.second-shoe{
+    background-color: orchid;
+}
+
+.third-shoe{
+    background-color: blue;
+}
+
+.image{
+    max-height: 100px;
+}
+
+.max-width {
+    max-width: 90%;
+    margin: 0px;
+}
+
+.first-section{
+border-radius: 15px;
+overflow: hidden;
+}
